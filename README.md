@@ -1,10 +1,10 @@
-# spanishnumber
+# spanishnumber App Flutter
 
-A new Flutter project.
+A Flutter Project to learn 1 to 10 numbers in spanish.
 
-## Getting Started
+## Flutter - iNeuron Task Assignment by Hitesh Choudhary - 1
 
-This project is a starting point for a Flutter application.
+- Added English Numbers and made the button floating 
 
 A few resources to get you started if this is your first Flutter project:
 
